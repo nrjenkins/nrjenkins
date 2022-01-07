@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile! My public repositories highlight my programming, statistical, and research skills. Be sure to check out my website as well: nicholasrjenkins.science.
+
 <!--
 **nrjenkins/nrjenkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
